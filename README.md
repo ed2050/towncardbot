@@ -27,3 +27,7 @@ towncardbot supports these commands. In discord chat on our server (MFBiF), type
 
 <img width="713" height="136" alt="Screen Shot 2025-09-12 at 6 20 57 PM" src="https://github.com/user-attachments/assets/6799fb01-e7ad-470f-8f6c-ea6f23ed9ae8" />
 
+/show kmimm
+
+<img width="708" height="353" alt="Screen Shot 2025-09-12 at 6 23 56 PM" src="https://github.com/user-attachments/assets/aef92619-d48a-4d1a-b9c2-5ad868dea64c" />
+
