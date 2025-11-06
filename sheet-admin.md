@@ -1,5 +1,7 @@
 # Instructions for Card Trading spreadsheet (Admins only)
 
+<img src="https://cdn.mos.cms.futurecdn.net/A3QcCbtCNT2ihjozVDQDfe.jpg" height="200px" />
+
 ## Adding users
 
 First you need permissions on the spreadsheet.  Contact Ed/Globex.
