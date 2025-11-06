@@ -1,0 +1,39 @@
+# Instructions for Card Trading spreadsheet (Admins only)
+
+## Adding users
+
+First you need to be given permissions on the spreadsheet.  Contact Ed/Globex.
+
+Then add users like this:
+
+1. Add new user info to Town Info sheet after existing users.
+2. Go to menu Task Automator -> Update users.  This copies new users to all card data sheets.
+3. Wait while update runs.  A small box in top middle says it's running.
+4. Now click Task Automator -> Sort data by name.  This sorts data sheets in alphabetical order.  Can take 2 mins - just wait.
+Sheets are locked during this process.
+
+That's it.  Add any number of users at a time to Town Info and then run Task Automator commands.  Just don't sort by hand.
+
+
+The first time you use Task Automator, it will ask for approval.  Follow the steps below. 
+
+
+## Authorize app (first time only)
+
+The first time you use the Task Automator menu, you'll get a confirmation page similar to this:
+<img src="https://developers.google.com/static/apps-script/images/unverified-app-ui.gif" />
+
+- First choose which google account to use.  Pick the one that was given Editor access to the spreadsheet.
+- Then it will say "This app isn't verified".  In bottom left, click Advanced.
+- Click in bottom left where is says something like "go to blah blah (unsafe)" or "run so-and-so (unsafe)"
+- Type or click continue or accept on following screens.  You may have to scroll down to bottom of page.
+
+What it means: "unverified" means that the script wasn't reviewed by Google.
+The script for menu functions doesn't run on your machine, it runs on Google servers.
+And it can't access your Google account data, only the Shark Swap spreadsheet.
+
+
+## Troubleshooting
+
+If anything goes wrong, **don't edit spreadsheet by hand**.  This is likely to corrupt data.
+Contact Ed/Globex to sort it out.
