@@ -39,5 +39,6 @@ And it can't access your Google account data, only the Shark Swap spreadsheet.
 ## Troubleshooting
 
 <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2018/09/Homer-Simpson-in-The-Simpsons.jpg?w=1200&h=628&fit=crop" height="200px" /> 
+
 If anything goes wrong, **don't edit spreadsheet by hand**.  This is likely to corrupt data.
 Contact Ed/Globex to sort it out.
