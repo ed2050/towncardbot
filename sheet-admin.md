@@ -28,8 +28,8 @@ The first time you use the Task Automator menu, you'll get a confirmation page s
 
 - First choose which google account to use.  Pick the one that was given Editor access to the spreadsheet.
 - Then it will say "This app isn't verified".  In bottom left, click Advanced.
-- Click in bottom left where is says something like "go to blah blah (unsafe)" or "run so-and-so (unsafe)"
-- Type or click continue or accept on following screens.  You may have to scroll down to bottom of page.
+- Click in bottom left where it says something like "go to blah blah (unsafe)" or "run so-and-so (unsafe)"
+- Type or click continue or accept on following screens.  You may have to scroll to bottom of page.
 
 What it means: "unverified" means that the script wasn't reviewed by Google.
 The script for menu functions doesn't run on your machine, it runs on Google servers.
