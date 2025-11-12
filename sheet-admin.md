@@ -35,6 +35,26 @@ What it means: "unverified" means that the script wasn't reviewed by Google.
 The script for menu functions doesn't run on your machine, it runs on Google servers.
 And it can't access your Google account data, only the Shark Swap spreadsheet.
 
+## Removing Users
+
+<img src="https://puzzledpagan.com/wp-content/uploads/2016/06/093.jpg?w=573&h=323" height="200px" />
+
+To remove a single user:
+- Go to Town Info tab
+- Cut and paste their town name, town code, etc (cols A-D) from active users to Not Participating (col J).
+- select the cell in col J with the name of user you are removing.
+- Run the menu option "Task Automator -> Remove user"
+
+That's it.  Script will run and do the following:
+- copy user's row in Cumulative to sheet Removed (just to backup their data in case of mistakes)
+- delete user's row in Cumulative
+- delete user's row in all 15 card group sheets
+- resort Town Info sheet active users (cols A-H) to move empty rows to the bottom
+
+Script has several safeguards built in:
+- it will only delete name in active cell
+- it will not run if active cell is not in column Not Participating
+- it will not run if username still appears in Town Info active users (col A)
 
 ## Troubleshooting
 
