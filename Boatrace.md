@@ -9,6 +9,9 @@ From a few hundred logged spins across two accounts, here are the practical take
 
 - for a good chance to finish all 3 boats, each player needs about 120 tokens a day.  That's 8 mid-level tasks (15 tokens each) or 6 top tier tasks (20 tokens each).  Very doable.
 
+<img src="https://github.com/user-attachments/assets/f4844829-ba55-4f98-bf9f-aa7c2cd287b1" height="400px" />
+
+
 Higher multipliers mean you need more tokens to guarantee success.  To have an 80% chance to finish:
 - **1x**: about **1,210 tokens**
 - **5x**: about **1,260 tokens**
