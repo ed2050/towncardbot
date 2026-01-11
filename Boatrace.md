@@ -1,4 +1,4 @@
-# Frozen Fortune (Township) - What the Data Says, and How to Play It Smart
+# Frozen Fortune (Township) - What the Data Says & How to Play It Smart
 
 ## Top Takeaways
 
