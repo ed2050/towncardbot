@@ -4,7 +4,7 @@
 
 From a few hundred logged spins across two accounts, here are the practical takeaways :
 
-- Expected value (EV) per token is roughly 70 points per token, regardless of multiplier (1x, 5x, 10x, 50x).
+- Expected value (EV) per token is roughly 65 points per token, regardless of multiplier (1x, 5x, 10x, 50x).
 - Multipliers do not change EV per token. They only change how much your results swing.
 
 - for a good chance to finish all 3 boats, each player needs about 120 tokens a day.  That's 8 mid-level tasks (15 tokens each) or 6 top tier tasks (20 tokens each).  Very doable.
@@ -24,14 +24,12 @@ At 50x you need a lot more tokens, because the results are much more volatile.
 ### Best Strategy
 
 - Early in the race (before midway point of a boat) :
-  - EV looks to be around 75 points per token.
-  - Use 1x spins:
+    - Use 1x spins:
     - More spins = more chances to hit Super or Free.
     - Results are smoother and closer to the average - no "big misses".
-    - Best chance to reach the end if 70 to 75 points per token gets you there (depends how many tokens you generate).
+    - Best chance to reach the end if 65 points per token gets you there (depends how many tokens you generate).
 
 - Later in the race (after midway point of a boat):
-  - EV seems to drop to roughly 65 points per token.
   - If you are on pace (tokens you will earn * 65 >= points remaining):
     - Stick with 1x for consistency.
   - If you are behind pace (tokens you will earn * 65 < points needed):
@@ -44,11 +42,7 @@ Rule of thumb:
 - If you are on track, spin 1x.
 - If you are behind on tokens and out of time, use 5x or 10x and pray.
 
-There also appears to be a real split between first half and second half:
-- First half : EV is about 75 points per token.
-- Second half : EV is about 65 points per token.
-
-This split seems to come mostly from "Super 200" showing up more often in the first half of race (before midway point). Data is not conclusive yet, but so far it suggests the first half / second half spread is real.
+More data collection showed no split between first half / second half results.  Earlier results were just random variation.
 
 ---
 
