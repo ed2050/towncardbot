@@ -1,10 +1,11 @@
 # Quick guide to new Town Cards app
 
-<img width="300" alt="Screen Shot 2026-03-31 at 1 09 44 PM" src="https://github.com/user-attachments/assets/bbca1bee-c222-485b-b3cd-b1c00b9b59d4" />
+<img width="300" alt="Screen Shot 2026-03-31 at 6 03 23 PM" src="https://github.com/user-attachments/assets/35c39cac-2e8d-4422-ac17-606c3657f4d5" />
+
 
 ## First time login
 
-1. go to https://towncards.my.to -> Get Started
+1. go to https://towncards.my.to/new -> Get Started
 2. select New User and create an account.  it will remember you so you don't need to login every time.
 3. on your homepage (User Home) click Add Town and your towns.  for team name put 'Ctrl Elite'
 4. optionally use Edit Profile to add your name or avatar pic
