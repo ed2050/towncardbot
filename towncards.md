@@ -1,5 +1,7 @@
 # Quick guide to new Town Cards app
 
+<img width="300" alt="Screen Shot 2026-03-31 at 1 09 44 PM" src="https://github.com/user-attachments/assets/bbca1bee-c222-485b-b3cd-b1c00b9b59d4" />
+
 ## First time login
 
 1. go to https://towncards.my.to -> Get Started
