@@ -20,7 +20,7 @@ on your home page:
 ## Screenshots
 
 ### User Home
-<img width="500" alt="Screen Shot 2026-03-31 at 1 09 44 PM" src="https://github.com/user-attachments/assets/bbca1bee-c222-485b-b3cd-b1c00b9b59d4" />
+<img width="500" height="971" alt="Screen Shot 2026-04-01 at 1 29 31 PM" src="https://github.com/user-attachments/assets/7112dd0f-c0ac-409b-9ed0-cf4b5c19bff0" />
 
 ### Show Cards
 <img width="500" alt="Screen Shot 2026-03-31 at 1 10 21 PM" src="https://github.com/user-attachments/assets/6dc7d15b-f47c-430d-a636-b81c4b992dfe" />
