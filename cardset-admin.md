@@ -1,16 +1,16 @@
 # Editing card collection data
 
-0) Go to:
+1) Go to:
 https://towncards.my.to/e/cardset
 
 Anyone can view the page and download json file.
 Only admins can upload.
 
-0) Download the json file.
+1) Download the json file.
 
-0) Edit the json file and plug in the set names and corresponding card names where it says "set x" and "card x".  Sets and cards should be in same order as actual game.
+1) Edit the json file and plug in the set names and corresponding card names where it says "set x" and "card x".  Sets and cards should be in same order as actual game.
 
-0) Upload the edited file with complete card collection data.
+1) Upload the edited file with complete card collection data.
 
 ## Things to keep in mind
 
