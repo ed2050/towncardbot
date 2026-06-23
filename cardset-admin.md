@@ -1,6 +1,6 @@
 # Editing card collection data
 
-1) Go to:
+Go to:
 https://towncards.my.to/e/cardset
 
 Anyone can view the page and download json file.
