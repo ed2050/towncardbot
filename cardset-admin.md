@@ -22,6 +22,6 @@ Only admins can upload.
 
 when it hits 10am UTC on July 10, server should automatically start using the new card data.  it reads the json file already, but ignores it since date is in the future.  on july 10 it will start showing the temp card names on player pages until you upload the real names.
 
-upload tool is restricted to just you.  others can download, so if you want Han or someone to dl the file and fill in the names, they can help.  but only your account can upload.
+upload tool is restricted to just admins.  anyone can download, so others can dl the file and fill in the names to help.  but only admins can upload.
 
 it's rough, not polished like my other pages.  this is a one-time thing for admins, not users.
