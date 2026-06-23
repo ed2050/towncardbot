@@ -24,4 +24,4 @@ when it hits 10am UTC on July 10, server should automatically start using the ne
 
 upload tool is restricted to just you.  others can download, so if you want Han or someone to dl the file and fill in the names, they can help.  but only your account can upload.
 
-it's rough, not polished like my other pages.  cause this is a one-time thing for admins, not users.
+it's rough, not polished like my other pages.  this is a one-time thing for admins, not users.
